@@ -1,0 +1,12 @@
+.body {
+    flex: 1;
+    display: flex;
+    height: 100vh;
+    }
+
+    .body__left {
+    width: 100%;
+    right: 0;
+    }
+
+    
